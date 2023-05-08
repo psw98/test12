@@ -1,0 +1,14 @@
+<customers>
+    <customer>
+        <name>장발장</name>
+        <address>서울 강남구</address>
+    </customer>
+    <customer>
+        <name>코재트</name>
+        <address>부산 동래구</address>
+    </customer>
+    <customer>
+        <name>판틴</name>
+        <address>강원도 춘천시</address>
+    </customer>
+</customers>
